@@ -1,6 +1,6 @@
 {
   "name": "@lono/curl",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "@lono/curl",
   "scripts": {
     "build": "babel lib -d dist",
